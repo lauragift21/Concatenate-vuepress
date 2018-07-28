@@ -2,25 +2,14 @@
 home: true
 actionText: Get Started →
 actionLink: /guide/
+features:
+- title: Remote Package
+  details: Ever experienced a remote conference this is the first of it kind and it promises to be mind blowing.
+- title: Humor Content 
+  details: Minimal humor can be found sprinkled here and there.
+- title: Awesome Experience
+  details: This is one of the first conference in Nigeria, With the awesome line up speakers it's definitely going to be amazing.
 ---
-<div style="text-align: center">
-  <Bit/>
-</div>
-
-<div class="features">
-  <div class="feature">
-    <h2>Simplicity First</h2>
-    <p>Minimal setup with markdown-centered project structure helps you focus on writing.</p>
-  </div>
-  <div class="feature">
-    <h2>Vue-Powered</h2>
-    <p>Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.</p>
-  </div>
-  <div class="feature">
-    <h2>Performant</h2>
-    <p>VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.</p>
-  </div>
-</div>
 
 ## How To Get Started
 
