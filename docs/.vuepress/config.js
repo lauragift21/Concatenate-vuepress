@@ -3,12 +3,12 @@ module.exports = {
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'Concatenate',
-      description: 'A VuePress demo',
+      title: 'Hello Concatenate!',
+      description: 'A Vuepress Demo',
     }
   },
   head: [
-    ['link', { rel: 'icon', href: './logo.jpg'}]
+    ['link', { rel: 'icon', href: `./hero.jpg`}]
   ],
   themeConfig: {
     nav: [
@@ -17,8 +17,8 @@ module.exports = {
         link: '/' 
       },
       { 
-        text: 'Docs', 
-        link: '/docs/' 
+        text: 'Dev Humor', 
+        link: '/humor/' 
       },
       { 
         text: 'languages',
@@ -26,27 +26,20 @@ module.exports = {
           { 
             text: 'Chinese', 
             link: '/language/chinese/' 
-          },
-          { 
-            text: 'Spanish', 
-            link: '/language/spanish/' 
-          },
+          }
         ]
       },
       { 
-        text: 'demo', 
+        text: 'slides', 
         link: 'https://slides.com/lauragift21/vuepress' 
       },
     ],
-    sidebar: [
-      {
-        title: 'Docs',
-        collapsable: false,
-        children: [
-          '/docs/', 
-        ]
-      }
-    ],
+    sidebar: {
+      '/guide/': [
+        '',
+        'test'
+      ]
+    },
     lastUpdated: 'Last Updated',
     search: true,
     repo: 'lauragift21/Concatenate-vuepress',

@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /docs/
+actionLink: /guide/
 ---
 <div style="text-align: center">
   <Bit/>
