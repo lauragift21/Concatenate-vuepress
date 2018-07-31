@@ -31,6 +31,8 @@ sidebar: auto
 ### PM always be like
 
 ![meme](https://pbs.twimg.com/media/Cpwoac3UMAAd3Ax.jpg)
+
+
 ## Code Syntax
 ```js
 const text = `Just testing out the code syntax feature`;
@@ -52,6 +54,7 @@ Well i warned you!
 ## EMOJI :tada:
 :tada: :bug: :sparkles: :grinning: :smile: :blush:  
 ## Custom Vue Template
+
 ```
 {{ 4 * 8 }}
 ```
