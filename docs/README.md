@@ -11,6 +11,10 @@ features:
   details: This is one of the first conference in Nigeria, With the awesome line up speakers it's definitely going to be amazing.
 ---
 
+::: danger ADHERE TO THIS INSTRUCTION
+This might contain a lot of lame jokes.
+:::
+
 ## How To Get Started
 
 ``` bash
@@ -28,6 +32,3 @@ vuepress build
 
 
 ```
-::: danger ADHERE TO THIS INSTRUCTION
-This might contain a lot of Puns.
-:::
