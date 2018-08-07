@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /humor/
 features:
 - title: Remote Package
   details: Ever experienced a remote conference this is the first of it kind and it promises to be mind blowing.
